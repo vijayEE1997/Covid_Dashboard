@@ -1,0 +1,322 @@
+[
+        {
+            "State": "Andaman and Nicobar Island",
+            "CGST Mar-20": "15.87",
+            "SGST Mar-20": "19.61",
+            "IGST Mar-20": "3.04",
+            "CESS Mar-20": "0.06",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0.00"
+        },
+        {
+            "State": "Andhra Pradesh",
+            "CGST Mar-20": "561.24",
+            "SGST Mar-20": "789.01",
+            "IGST Mar-20": "896.06",
+            "CESS Mar-20": "301.83",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "6055.49"
+        },
+        {
+            "State": "Arunachal Pradesh",
+            "CGST Mar-20": "27.50",
+            "SGST Mar-20": "33.23",
+            "IGST Mar-20": "5.96",
+            "CESS Mar-20": "0.01",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "1312.67"
+        },
+        {
+            "State": "Assam",
+            "CGST Mar-20": "288.87",
+            "SGST Mar-20": "389.20",
+            "IGST Mar-20": "213.26",
+            "CESS Mar-20": "40.39",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "5911.94"
+        },
+        {
+            "State": "Bihar",
+            "CGST Mar-20": "305.76",
+            "SGST Mar-20": "496.81",
+            "IGST Mar-20": "118.13",
+            "CESS Mar-20": "135.25",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "6384.25"
+        },
+        {
+            "State": "Chandigarh",
+            "CGST Mar-20": "30.03",
+            "SGST Mar-20": "41.32",
+            "IGST Mar-20": "79.41",
+            "CESS Mar-20": "2.50",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0"
+        },
+        {
+            "State": "Chattisgarh",
+            "CGST Mar-20": "418.63",
+            "SGST Mar-20": "500.24",
+            "IGST Mar-20": "595.26",
+            "CESS Mar-20": "579.03",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "4034.11"
+        },
+        {
+            "State": "Dadra and Nagar Haveli",
+            "CGST Mar-20": "18.96",
+            "SGST Mar-20": "24.29",
+            "IGST Mar-20": "125.44",
+            "CESS Mar-20": "0.19",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0.00"
+        },
+        {
+            "State": "Daman and Diu",
+            "CGST Mar-20": "10.45",
+            "SGST Mar-20": "15.97",
+            "IGST Mar-20": "68.49",
+            "CESS Mar-20": "0.01",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0.00"
+        },
+        {
+            "State": "Delhi",
+            "CGST Mar-20": "680.88",
+            "SGST Mar-20": "881.72",
+            "IGST Mar-20": "1617.06",
+            "CESS Mar-20": "93.33",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "6277.98"
+        },
+        {
+            "State": "Goa",
+            "CGST Mar-20": "77.18",
+            "SGST Mar-20": "111.96",
+            "IGST Mar-20": "125.14",
+            "CESS Mar-20": "2.20",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "1061.65"
+        },
+        {
+            "State": "Gujrat",
+            "CGST Mar-20": "1886.25",
+            "SGST Mar-20": "2359.55",
+            "IGST Mar-20": "2218.04",
+            "CESS Mar-20": "356.62",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "6912.67"
+        },
+        {
+            "State": "Haryana",
+            "CGST Mar-20": "736.47",
+            "SGST Mar-20": "1074.14",
+            "IGST Mar-20": "2678.42",
+            "CESS Mar-20": "385.26",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "4168.36"
+        },
+        {
+            "State": "Himachal Pradesh",
+            "CGST Mar-20": "91.20",
+            "SGST Mar-20": "135.87",
+            "IGST Mar-20": "367.61",
+            "CESS Mar-20": "1.21",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "1960.2"
+        },
+        {
+            "State": "Jammu and Kashmir",
+            "CGST Mar-20": "69.89",
+            "SGST Mar-20": "126.00",
+            "IGST Mar-20": "77.12",
+            "CESS Mar-20": "3.16",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "3609.5"
+        },
+        {
+            "State": "Jharkhand",
+            "CGST Mar-20": "388.64",
+            "SGST Mar-20": "499.95",
+            "IGST Mar-20": "666.91",
+            "CESS Mar-20": "493.93",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "3541.71"
+        },
+        {
+            "State": "Karnataka",
+            "CGST Mar-20": "1716.85",
+            "SGST Mar-20": "2230.64",
+            "IGST Mar-20": "2386.80",
+            "CESS Mar-20": "810.01",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "7802.12"
+        },
+        {
+            "State": "Kerala",
+            "CGST Mar-20": "476.03",
+            "SGST Mar-20": "714.60",
+            "IGST Mar-20": "277.68",
+            "CESS Mar-20": "6.95",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "6384.09"
+        },
+        {
+            "State": "Lakshadweep",
+            "CGST Mar-20": "0.13",
+            "SGST Mar-20": "1.18",
+            "IGST Mar-20": "0.03",
+            "CESS Mar-20": "0.00",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0.00"
+        },
+        {
+            "State": "Leh & Ladakh",
+            "CGST Mar-20": "0.22",
+            "SGST Mar-20": "0.22",
+            "IGST Mar-20": "0.15",
+            "CESS Mar-20": "0.25",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0.00"
+        },
+        {
+            "State": "Madhya Pradesh",
+            "CGST Mar-20": "541.53",
+            "SGST Mar-20": "746.66",
+            "IGST Mar-20": "645.04",
+            "CESS Mar-20": "474.16",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "8806.21"
+        },
+        {
+            "State": "Maharastra",
+            "CGST Mar-20": "4232.40",
+            "SGST Mar-20": "5126.62",
+            "IGST Mar-20": "4755.47",
+            "CESS Mar-20": "887.61",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "13636.18"
+        },
+        {
+            "State": "Manipur",
+            "CGST Mar-20": "13.67",
+            "SGST Mar-20": "20.35",
+            "IGST Mar-20": "1.73",
+            "CESS Mar-20": "0.14",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "697.96"
+        },
+        {
+            "State": "Meghalaya",
+            "CGST Mar-20": "18.44",
+            "SGST Mar-20": "23.82",
+            "IGST Mar-20": "90.40",
+            "CESS Mar-20": "0.07",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "999.24"
+        },
+        {
+            "State": "Mizoram",
+            "CGST Mar-20": "11.65",
+            "SGST Mar-20": "17.00",
+            "IGST Mar-20": "4.51",
+            "CESS Mar-20": "0.02",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "516.15"
+        },
+        {
+            "State": "Nagaland",
+            "CGST Mar-20": "14.10",
+            "SGST Mar-20": "18.32",
+            "IGST Mar-20": "5.90",
+            "CESS Mar-20": "0.44",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "689.54"
+        },
+        {
+            "State": "Odisha",
+            "CGST Mar-20": "583.79",
+            "SGST Mar-20": "776.28",
+            "IGST Mar-20": "731.77",
+            "CESS Mar-20": "541.04",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "5486.44"
+        },
+        {
+            "State": "Puducherry",
+            "CGST Mar-20": "20.53",
+            "SGST Mar-20": "30.34",
+            "IGST Mar-20": "98.08",
+            "CESS Mar-20": "0.37",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "568"
+        },
+        {
+            "State": "Punjab",
+            "CGST Mar-20": "301.44",
+            "SGST Mar-20": "484.36",
+            "IGST Mar-20": "374.60",
+            "CESS Mar-20": "20.41",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "3558.55"
+        },
+        {
+            "State": "Rajasthan",
+            "CGST Mar-20": "729.83",
+            "SGST Mar-20": "1007.84",
+            "IGST Mar-20": "978.25",
+            "CESS Mar-20": "104.51",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "9066.22"
+        },
+        {
+            "State": "Sikkim",
+            "CGST Mar-20": "12.23",
+            "SGST Mar-20": "16.15",
+            "IGST Mar-20": "160.88",
+            "CESS Mar-20": "0.07",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "358.79"
+        },
+        {
+            "State": "Tamil Nadu",
+            "CGST Mar-20": "1580.73",
+            "SGST Mar-20": "2223.19",
+            "IGST Mar-20": "1939.88",
+            "CESS Mar-20": "434.02",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "8814.9"
+        },
+        {
+            "State": "Telangana",
+            "CGST Mar-20": "846.30",
+            "SGST Mar-20": "1139.90",
+            "IGST Mar-20": "996.38",
+            "CESS Mar-20": "579.99",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "3725.9"
+        },
+        {
+            "State": "Tripura",
+            "CGST Mar-20": "23.46",
+            "SGST Mar-20": "36.67",
+            "IGST Mar-20": "6.74",
+            "CESS Mar-20": "0.25",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "648.45"
+        },
+        {
+            "State": "Uttar Pradesh",
+            "CGST Mar-20": "1182.98",
+            "SGST Mar-20": "1794.75",
+            "IGST Mar-20": "1432.72",
+            "CESS Mar-20": "883.26",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "13247.79"
+        },
+        {
+            "State": "Uttarakhand",
+            "CGST Mar-20": "221.45",
+            "SGST Mar-20": "277.36",
+            "IGST Mar-20": "686.08",
+            "CESS Mar-20": "9.84",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "2317.39"
+        },
+        {
+            "State": "West Bengal",
+            "CGST Mar-20": "1035.42",
+            "SGST Mar-20": "1401.37",
+            "IGST Mar-20": "829.19",
+            "CESS Mar-20": "316.27",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "7649.44"
+        },
+        {
+            "State": "Other Territory",
+            "CGST Mar-20": "9.72",
+            "SGST Mar-20": "11.97",
+            "IGST Mar-20": "110.80",
+            "CESS Mar-20": "0.00",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0.00"
+        },
+        {
+            "State": "Central Jurisdiction",
+            "CGST Mar-20": "0.00",
+            "SGST Mar-20": "0.00",
+            "IGST Mar-20": "81.48",
+            "CESS Mar-20": "0.00",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "0.00"
+        },
+        {
+            "State": "Grand Total",
+            "CGST Mar-20": "19180.73",
+            "SGST Mar-20": "25598.46",
+            "IGST Mar-20": "26449.91",
+            "CESS Mar-20": "7464.64",
+            "Expenditure on Medical and Public Health BE(FY-20) ": "146203.89"
+        }
+    ]

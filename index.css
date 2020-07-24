@@ -1,0 +1,299 @@
+
+ .header{
+    position : fixed;
+    background-color: #FFFFFF;
+    top:0;
+    height: 75px;
+    display : flex;
+    align-items : center;
+   box-shadow: 0 6px 6px -1px rgba(0, 0, 0, 0.1);
+   width : 100%;
+  
+   justify-content:space-between;
+  }
+
+
+
+
+  .row1Para{
+    margin-right: 40px;
+    text-align: justify;
+  }
+  .articleHead{
+    width:50%;
+    height:20px;
+    background-color: #000000;
+    color:#FFFFFF;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 25%;
+  }
+.listItem{
+  margin-bottom: 1rem;
+
+}
+
+
+
+ 
+  #icon {
+     margin-left: 24px; 
+}
+.collapseButton{
+   background-color: white;
+    border:none;
+    outline: none;
+    box-shadow: none;
+
+}
+
+  .headerH1{
+  	width :90%;
+  	font-size:2.8vw;
+  	text-align: center;	
+  	font-weight: bold;
+
+  }
+ a{
+
+ 	color: #000000;
+ }
+ .homeRow1 , .homeRow2 , .homeRow3 {
+ 	display: flex;
+  justify-content: space-around;
+  padding: 10px 0px;
+  margin-bottom: 15px; 
+ }
+ 
+ .homeRow2Col1 , .homeRow3Col1{
+  width : 75%;
+  height : 500px;
+  margin-right: 15px;
+ box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
+ }
+ .homeRow2Col2{
+  width:23%;
+  height:500px;
+   justify-content: space-between;
+
+ }
+
+ .homeRow3Col2{
+  width: 23%;
+  height:500px;
+  overflow-y: scroll;
+ }
+
+ .homesurvey{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+ }
+ 
+
+ 
+ .homeRow3Col2 >div{
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+ }
+
+ .homeArticle{
+  padding: 5%;
+
+ }
+ .homeImage{
+  font-size: 20px;
+  text-decoration: none;
+ }
+ .homeImage:hover{
+  color:#0000FF;
+  text-decoration: underline;
+
+ }
+ .surveyTitle{
+  max-width:120px;
+  min-width: 80px;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 0.5rem;
+  margin: 0 ,auto;
+  background-color: #000000;
+  color: #FFFFFF
+
+ }
+ .survey{
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+  padding:0.5rem ;
+
+
+ }
+ .survey2{
+  margin-top:1rem;
+ }
+
+ .homedoc{
+  background-color: #000000;
+  color:#FFFFFF;
+  border-radius: 10px;
+  text-decoration: none;
+  padding:0.3rem;
+  float:right;   
+ } 
+
+ .monetaryH2{
+  text-align:left;
+  font-weight:500;
+  font-size: 2.5vw;
+
+ }
+
+ /*   -----------------blog style------------------*/
+ .blog{
+  width: 100%;
+  padding: 0.5rem 0;
+}
+.blog-heading h3{
+  text-align: center;
+  font-size: 1.25rem;
+  font-weight: bolder;
+  color: white;
+  background-color: black;
+  width:150px;
+  padding:0.5rem 1rem;
+  border-radius: 1.5rem;
+  margin:0 auto;
+}
+.blog-items{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 1rem;
+}
+.blog-item{
+  flex: 0 0 15%;
+  margin:0.5rem 0.5rem;
+  box-shadow: 3px 3px 10px 1px grey;
+  height: 300px;
+}
+.blog-item-image{
+  width: 300px;
+  height: 150px;
+}
+.blog-item-image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.blog-item-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding:0.5rem 0.5rem;
+  height: 140px;
+  font-size: 1rem ;
+}
+.blog-item-content a{
+  text-decoration: none;
+  color: #376cff;
+  
+  font-weight: bolder;
+}
+.blog-item-content p{
+  margin:0 0.25rem;
+
+}
+/*--------------------------blog style end -----------*/
+
+.dataTable{
+  z-index: -100;
+}
+
+
+.sidebarList >a{
+  color:#000000;
+  text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:950px){
+
+  .homeRow2Col2{
+    overflow-y: scroll;
+  }
+
+}
+
+
+ @media (max-width: 650px){
+
+
+
+ 	.homeRow1{
+ 		flex-direction: column;
+    align-items: center;
+    
+    font-size: 0.9rem;
+
+ 	}
+  .row1Para{
+    margin-right: 0;
+  }
+  img{
+    width: 80%;
+  }
+  .homeRow2 , .homeRow3{
+   flex-direction: column;
+  }
+  .homeRow3{
+    align-items: center;
+  }
+  .homeRow2Col1 , .homeRow3Col1{
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .homeRow2Col2 {
+   background-color: #FFFFFF;
+   
+    width: 50%;
+    height:450px;
+    margin: 0 auto;
+   overflow: hidden;
+  }
+
+  .homeRow3Col2{
+    width:80%;
+    height:200px;
+  }
+
+  .survey{
+    margin: 0;  
+    
+   }
+
+
+
+ }
+
+
+
+
+
+
+
+  
